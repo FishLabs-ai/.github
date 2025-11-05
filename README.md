@@ -45,8 +45,7 @@ Nosso objetivo é ajudar empresas a navegar com segurança e eficiência no mar 
 
 ## 💬 Contato
 
-📧 **contato@fishlabs.com.br**  
-🌍 [dev.team.fishlabs@gmail.com](dev.team.fishlabs@gmail.com)  
+📧 **dev.team.fishlabs@gmail.com** 
 
 
 ---
